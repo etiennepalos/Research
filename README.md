@@ -4,7 +4,7 @@ Welcome to my page! Here you will find information regarding my education and re
 
 ### Undergraduate at Universidad Nacional Autónoma de México , B.S. in Nanotechnology
 
-Currently an undergraduate student (senior) at Centro de Nanociencias y Nanotecnología (CNyN), UNAM, in Ensenada, Baja California, Mexico. My major is in Nanotechnology with emphasis in nanostructure physics and catalysis.
+Currently an undergraduate student (senior) at [Centro de Nanociencias y Nanotecnología (CNyN)](https://www.cnyn.unam.mx/), [UNAM](https://www.unam.mx/), in Ensenada, Baja California, Mexico. My major is in Nanotechnology with emphasis in nanostructure physics and catalysis.
 
 
 
@@ -19,4 +19,8 @@ In the past, I have worked with professors [Dr. Donald H. Galván](https://www.r
 
 ### Computational CondMatt Club (CCMC) 
 The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@ComptCondMatt](https://twitter.com/ComptCondMatt) for updates!
+
+### Contact 
+E-mail: g5_palo16@cnyn.unam.mx 
+Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
 
