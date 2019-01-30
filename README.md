@@ -2,6 +2,8 @@
 
 Welcome to my page! Here you will find information regarding my education and research! 
 
+[Check my CV](portfolio/E_Palos_CV.pdf)
+
 ### Undergraduate at Universidad Nacional Autónoma de México , B.S. in Nanotechnology
 
 Currently an undergraduate student (senior) at [Centro de Nanociencias y Nanotecnología (CNyN)](https://www.cnyn.unam.mx/), [UNAM](https://www.unam.mx/), in Ensenada, Baja California, Mexico. My major is in Nanotechnology with emphasis in nanostructure physics and catalysis.
