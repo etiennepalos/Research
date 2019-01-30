@@ -2,7 +2,7 @@
 
 Welcome to my page! Here you will find information regarding my education and research! 
 
-[Check my CV](etiennepalos.github.io/portfolio/E_Palos_CV.pdf)
+[Check my CV](https://etiennepalos.github.io/portfolio/E_Palos_CV.pdf)
 
 
 
