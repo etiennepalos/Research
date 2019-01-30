@@ -2,7 +2,7 @@
 
 Welcome to my page! Here you will find information regarding my education and research! 
 
-## Undergraduate at UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO , B.S. in Nanotechnology
+## Undergraduate at Universidad Nacional Autónoma de México , B.S. in Nanotechnology
 
 Currently an undergraduate student (senior) at Centro de Nanociencias y Nanotecnología (CNyN), UNAM, in Ensenada, Baja California, Mexico. My major is in Nanotechnology with emphasis in nanostructure physics and catalysis.
 
