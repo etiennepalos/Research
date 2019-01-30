@@ -1,37 +1,19 @@
 ## Etienne Israel Palos
 
-You can use the [editor on GitHub](https://github.com/etiennepalos/etienne-palos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page! Here you will find information regarding my education and research! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Undergraduate at UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO , B.S. in Nanotechnology
 
-### Markdown
+Currently an undergraduate student (senior) at Centro de Nanociencias y Nanotecnología (CNyN), UNAM, in Ensenada, Baja California, Mexico. My major is in Nanotechnology with emphasis in nanostructure physics and catalysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Computational Materials Physicist in training
+I am a member of the `Computational Nanotechnology Lab` at CNyN, under the supervision of [Dr. Jonathan Guerrero Sánchez] (https://scholar.google.com.mx/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao) (advisor) and principal investigador (PI), [Dr. Noboru Takeuhi Tan] (https://scholar.google.com.mx/citations?user=NK4ag9QAAAAJ&hl=en). My current project focuses on data-driven materials discovery in solids and two-dimensional materials. My main tools include _The Materials Project_ `(pymatgen)` for structure prediction and _Quantum Espresso_ `(PWscf)`for Density Functional Theory (DFT) computation. We are strongly interested in validating our results experimentally.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+In the past, I have worked with professors [Dr. Donald H. Galván] (https://www.researchgate.net/profile/Donald_Galvan) and [Dr. Armando Reyes Serrato] (https://scholar.google.com.mx/citations?user=WunCTY8AAAAJ&hl=en), describing the electronic structure of a predicted ternary compound, rhenium carbonitride. Our work resulted in a publication (see below). 
 
-**Bold** and _Italic_ and `Code` text
+## Publications 
+1. Etienne I Palos _et al_ 2018 _Phys. Scr._ **93** 115801. [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study] (https://doi.org/10.1088/1402-4896/aae14c) 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etiennepalos/etienne-palos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
