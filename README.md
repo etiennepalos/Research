@@ -22,5 +22,6 @@ The CCMC is a community (i.e. a club) of academics and students alike in the for
 
 ### Contact 
 E-mail: g5_palo16@cnyn.unam.mx 
+
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
 
