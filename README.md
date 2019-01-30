@@ -1,4 +1,4 @@
-## Etienne Israel Palos
+# Etienne Israel Palos
 
 Welcome to my page! Here you will find information regarding my education and research! 
 
