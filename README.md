@@ -15,6 +15,8 @@ Currently an undergraduate student (senior) at [Centro de Nanociencias y Nanotec
 ### Computational Materials Physicist in training
 I am a member of the `Computational Nanotechnology Lab` at CNyN, under the supervision of [Dr. Jonathan Guerrero Sánchez](https://scholar.google.com.mx/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao) (advisor) and principal investigador (PI), [Dr. Noboru Takeuhi Tan](https://scholar.google.com.mx/citations?user=NK4ag9QAAAAJ&hl=en). My current project focuses on data-driven materials discovery in solids and two-dimensional materials. My main tools include _The Materials Project_ `(pymatgen)` for structure prediction and _Quantum Espresso_ `(PWscf)`for Density Functional Theory (DFT) computation. We are strongly interested in validating our results experimentally.
 
+We are also interested in ferromagnetic 2D maeterials, such as CrGeTe3 and CrI3. 
+
 
 In the past, I have worked with professors [Dr. Donald H. Galván](https://www.researchgate.net/profile/Donald_Galvan) and [Dr. Armando Reyes Serrato](https://scholar.google.com.mx/citations?user=WunCTY8AAAAJ&hl=en), describing the electronic structure of a predicted ternary compound, rhenium carbonitride. Our work resulted in a publication (see below). 
 
