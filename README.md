@@ -25,7 +25,7 @@ In the past, I have worked with professors [Dr. Donald H. Galván](https://www.r
 2. Etienne I Palos _et al_ 2019 _In prep (preprint coming soon!) _New transition metal chalcogenide Na2MoSe4 is predicted to be a direct bandgap semiconductor suitable for optoelectronics_ *THEORETICAL AND EXPERIMENTAL STUDY* (Presented work at ACS San Diego!)
 
 ### Computational Condensed Matter Club (CCMC) 
-The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@ComptCondMatt](https://twitter.com/ComptCondMatt) for updates!
+The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@CompCondMat](https://twitter.com/CompCondMat) for updates!
 
 ### Contact 
 E-mail: g5_palo16@cnyn.unam.mx 
