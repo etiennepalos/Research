@@ -2,7 +2,7 @@
 
 Welcome to my page! Here you will find information regarding my education and research! 
 
-[Check my CV](/E_Palos_CV.pdf)
+[Check my CV](/CV.pdf)
 
 
 
@@ -13,7 +13,7 @@ Currently an undergraduate student (senior) at [Centro de Nanociencias y Nanotec
 
 
 ### Computational Materials Physicist in training
-I am a member of the `Computational Nanotechnology Lab` at CNyN, under the supervision of [Dr. Jonathan Guerrero Sánchez](https://scholar.google.com.mx/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao) (my mentor) and lab head, [Dr. Noboru Takeuhi Tan](https://scholar.google.com.mx/citations?user=NK4ag9QAAAAJ&hl=en). My current projects focus on (a) data-driven discovery of new Transition Metal Chalcogenide semiconductors and thermmoelectric materials (woo-hoo!) and (b) new 2D materials for spintronics (MAGNETIC 2D MATERIALS!)
+I am a member of the `Materials Modeling Virtual Lab` at CNyN, under the supervision of [Dr. Jonathan Guerrero Sánchez](https://scholar.google.com.mx/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao) (my mentor) and lab head, [Dr. Noboru Takeuhi Tan](https://scholar.google.com.mx/citations?user=NK4ag9QAAAAJ&hl=en). My current projects focus on (a) data-driven discovery of new Transition Metal Chalcogenide semiconductors and thermmoelectric materials (woo-hoo!) and (b) new 2D materials for spintronics (MAGNETIC 2D MATERIALS!)
 My main tools include databases (e.g._The Materials Project_) for structure prediction and _Quantum ESPRESSO_ `(PWscf)` for Density Functional Theory (DFT) as well as _VASP_.
 
 
@@ -22,9 +22,9 @@ In the past, I have worked with professors [Dr. Donald H. Galván](https://www.r
 ### Publications 
 1. Etienne I Palos _et al_ 2018 _Phys. Scr._ **93** 115801. [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c) 
 
-2. Etienne I Palos _et al_ 2019 _In prep (preprint coming soon!) _New sodium molybdenum selenide Na2MoSe4 and its potential applications in semiconductor devices_ *THEORETICAL AND EXPERIMENTAL STUDY* (Will be presenting this work at ACS San Diego!)
+2. Etienne I Palos _et al_ 2019 _In prep (preprint coming soon!) _New transition metal chalcogenide Na2MoSe4 is predicted to be a direct bandgap semiconductor suitable for optoelectronics_ *THEORETICAL AND EXPERIMENTAL STUDY* (Presented work at ACS San Diego!)
 
-### Computational CondMatt Club (CCMC) 
+### Computational Condensed Matter Club (CCMC) 
 The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@ComptCondMatt](https://twitter.com/ComptCondMatt) for updates!
 
 ### Contact 
