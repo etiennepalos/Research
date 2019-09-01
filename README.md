@@ -20,7 +20,7 @@ My main tools include databases (e.g._The Materials Project_) for structure pred
 In the past, I have worked with professors [Dr. Donald H. Galván](https://www.researchgate.net/profile/Donald_Galvan) and [Dr. Armando Reyes Serrato](https://scholar.google.com.mx/citations?user=WunCTY8AAAAJ&hl=en), describing the electronic structure of a predicted ternary compound, rhenium carbonitride (ReCN). Our work resulted in a publication (see below). 
 
 ### Publications 
-1. Etienne I Palos _et al_ 2018 _Phys. Scr._ **93** 115801. [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c) 
+1. Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
 
 2. Etienne I Palos _et al_ 2019 _In prep (preprint coming soon!) _New transition metal chalcogenide Na2MoSe4 is predicted to be a direct bandgap semiconductor suitable for optoelectronics_ *THEORETICAL AND EXPERIMENTAL STUDY* (Presented work at ACS San Diego!)
 
