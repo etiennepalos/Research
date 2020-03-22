@@ -13,6 +13,7 @@ Quantum Chemistry + Condensed Matter Physics + Materials Science
 I have carried out my studies in Nanotechnology at [Centro de Nanociencias y Nanotecnología (CNyN)](https://www.cnyn.unam.mx/) - [UNAM](https://www.unam.mx/)in Ensenada, Baja California, Mexico. I am a member of the `Materials Modeling Virtual Lab` at CNyN, under the supervision of [Dr. Jonathan Guerrero Sánchez](https://scholar.google.com.mx/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao). 
 
 **My current projects focus on**
+
 ***(a)*** Data-driven discovery and first-principles characterization of new complex Transition Metal Chalcogenides for applications in optoelectronics. Particularly, I am focusing on understanding the electronic structure of alkali-metal transition-metal chalcogenides.
 
 ***(b)*** Prediction and first-principles modeling of novel quantum materials, such as ferromagnetic two-dimensional materials, for applications in emerging technologies such as spintronics. In this spirit, I intend to propose monolayer ternary transition metal chalcogenides with promising applications and a complex electronic structure.
