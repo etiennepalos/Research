@@ -22,9 +22,9 @@ I have carried out my studies in Nanotechnology at [Centro de Nanociencias y Nan
 ### Research outside UNAM 
 **In 2018**, I worked in the [Joel Yuen-Zhou Theoretical Chemistry group](http://yuenzhougroup.ucsd.edu/) at UC San Diego as a ***STARS Scholar***. There, I worked on the development of an effective theoretical model to describe [polaritons](https://www.nature.com/subjects/polaritons) in hybrid organic/metal interfaces.
 
-**In 2017**, I spent my summer at the Dept. of Chemistry and Biochemistry at 'UCSD' in the [Sailor lab](http://sailorgroup.ucsd.edu/), under Michael J. Sailor. I was a participant of the [2017 Summer School for Silicon Nanotechnology](http://sailorgroup.ucsd.edu/courses/SummerSchool/2017_participants.html). My project was focused on the computational design of waveguides for the elctrochemical preparation of p-Si (porous Silicon) photonic crystals. 
+**In 2017**, I spent my summer in the [Sailor lab](http://sailorgroup.ucsd.edu/), under Michael J. Sailor atUC San Diego. I was a participant of the [2017 Summer School for Silicon Nanotechnology](http://sailorgroup.ucsd.edu/courses/SummerSchool/2017_participants.html). My contribution was through the computational design of waveguides for the elctrochemical preparation of *p*-Si (porous Silicon) photonic crystals. 
 
-In 2016, I worked in an Electrochemistry lab at the  `Centro de Investigación y Desarrollo Tecnoloógico en Electroquímica (CIDETEQ)` where I worked on the electrochemical synthesis of chitosan nanoparticles for drug delivery. Not very related to what I do now, huh?
+**In 2016**, I worked at [Centro de Investigación y Desarrollo Tecnoloógico en Electroquímica (CIDETEQ)](https://www.cideteq.mx/) on the electrochemical synthesis of chitosan nanoparticles for drug delivery. Not very related to what I do now, huh? This was under the mentorship of [Professor Teresita Oropeza](https://scholar.google.com.mx/citations?user=8bi7nYIAAAAJ&hl=en&oi=ao). 
 
 ### Publications 
 1. Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
