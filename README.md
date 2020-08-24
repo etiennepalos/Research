@@ -2,12 +2,13 @@
 
 ## ABOUT 
 
-I am currently a senior undergraduate at [UNAM](https://www.unam.mx/) working on my Bachelor's thesis in the field of Computational Materials Physics as a ***CONACyT Scholar (SNI III Research Assistant)***.
 Starting this fall 2020, I will begin my Ph.D. studies at the [Department of Chemistry and Biochemistry at UC San Diego](https://chemistry.ucsd.edu/), where I will work under [Professor Francesco Paesani](http://paesanigroup.ucsd.edu/index.html) as a recipient of the ***Alfred P. Sloan Graduate Fellowship.*** 
+
+Graduated from [UNAM](https://www.unam.mx/) this year (2020). I completed my thesis in the field of Computational Materials Physics as a ***CONACyT Scholar (SNI III Research Assistant)***, under Dr. Jonathan Guerrero Sánchez.
 
 ## RESEARCH
 ### Research Interets
-Quantum Chemistry + Condensed Matter Physics + Materials Science
+Chemical Physics + Condensed Matter Physics 
 
 ### Research at UNAM
 
@@ -31,20 +32,18 @@ I have carried out my studies in Nanotechnology at [Centro de Nanociencias y Nan
 ## PUBLICATIONS 
 1. Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
 
-2. Etienne I Palos _et al_ 2019, _Ternary chalcogenide Na2MoSe4 is a direct bandgap semiconductor_ *Under review* (Presented work at ACS San Diego!)
+2. Etienne I Palos _et al_ 2020, [Modeling the ternary chalcogenide from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
 
-3. Etienne I Palos and Jonathan Guerrero-Sánchez 2019, _Prediction of magnetic ternary niobium telluride monolayers from first-principles _ *In preparation* 
+3. Etienne I Palos and Jonathan Guerrero-Sánchez 2020, _Quantum-mechanical modeling of ternary niobium telluride monolayers _ *In preparation* 
 
 
-4. Etienne I Palos _et al_, _On the electronic structure of orthorhombic alkali-metal transition-metal chalcogenides_ *In preparation* 
+4. Etienne I Palos _et al_, _On the electronic structure of alkali-ion transition-metal chalcogenides with oP symmetry_ *In preparation* 
 
 ### Computational Condensed Matter Club (CCMC) 
 The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@CompCondMat](https://twitter.com/CompCondMat) for updates!
 
 ### CONTACT 
-E-mail: g5_palo16@ens.cnyn.unam.mx 
+E-mail: epalos@ucsd.edu
 
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
-
-[Curriculum Vitae](./CV)
 
