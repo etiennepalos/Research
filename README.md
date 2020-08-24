@@ -32,7 +32,7 @@ I have carried out my studies in Nanotechnology at [Centro de Nanociencias y Nan
 ## PUBLICATIONS 
 1. Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
 
-2. Etienne I Palos _et al_ 2020, [Modeling the ternary chalcogenide from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
+2. Etienne I Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
 
 3. Etienne I Palos and Jonathan Guerrero-Sánchez 2020, _Quantum-mechanical modeling of ternary niobium telluride monolayers _ *In preparation* 
 
