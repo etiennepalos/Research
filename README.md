@@ -1,6 +1,6 @@
 # Etienne Israel Palos
-# Ph.D. Student 
-# Sloan Scholar
+### Ph.D. Student ###
+### Sloan Scholar###
 
 ## ABOUT 
 
@@ -40,7 +40,9 @@ Theoretical and Computational:
 The CCMC is a community (i.e. a club) of academics and students alike in the forefront of research in materials physics and chemistry. Our mission is to promote research and education in all fields surrounding materials sciecne, with an emphasis on theory and computation. Follow us at [@CompCondMat](https://twitter.com/CompCondMat) for updates!
 
 ### CONTACT 
-E-mail: epalos@ucsd.edu
+E-mail: epalos(at)ucsd.edu
 
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
+
+Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
