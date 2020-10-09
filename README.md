@@ -15,25 +15,25 @@ Theoretical and Computational:
 - Chemical Physics
 
 ## AWARDS
-(2020) Sloan Scholar Award 
-(2020) STARS Graduate Fellowship
-(2019) CONACyT SNI-III Research Assitantship
-(2018) CONACyT SNI-III Research Assistantship 
-(2015) SEP National Prototype Competition - *1st place at municipal, state and national levels*
+- (2020) Sloan Scholar Award 
+- (2020) STARS Graduate Fellowship
+- (2019) CONACyT SNI-III Research Assitantship
+- (2018) CONACyT SNI-III Research Assistantship 
+- (2015) SEP National Prototype Competition - *1st place at municipal, state and national levels*
 
 
 ## PUBLICATIONS 
-1. Etienne I Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
+- Etienne I Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
 
-2. Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
+- Etienne I Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
 
 
 *Preprints and works in progress... details upon request*
 
-3. Etienne I Palos and Jonathan Guerrero-Sánchez 2020, _Quantum-mechanical modeling of ternary niobium telluride monolayers _ *In preparation* 
+- Etienne I Palos and Jonathan Guerrero-Sánchez 2020, _Quantum-mechanical modeling of ternary niobium telluride monolayers _ *In preparation* 
 
 
-4. Etienne I Palos _et al_, _On the electronic structure of alkali-ion transition-metal chalcogenides with oP symmetry_ *In preparation* 
+- Etienne I Palos _et al_, _On the electronic structure of alkali-ion transition-metal chalcogenides with oP symmetry_ *In preparation* 
 
 
 ### Computational Condensed Matter Club (CCMC) 
