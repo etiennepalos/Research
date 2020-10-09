@@ -1,6 +1,6 @@
 # Etienne Israel Palos
 ### Ph.D. Student ###
-### Sloan Scholar###
+### Sloan Scholar ###
 
 ## ABOUT 
 
