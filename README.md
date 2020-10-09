@@ -1,6 +1,7 @@
 # Etienne Israel Palos
-*### Ph.D. Student ###*
-*### Sloan Scholar ###*
+
+
+* PhD Student, Sloan Scholar*
 
 ### Contact 
 E-mail: epalos(at)ucsd.edu
