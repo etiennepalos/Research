@@ -24,7 +24,7 @@ Theoretical and Computational:
 - Chemical Physics
 
 ## Honors & Awards
-- (2020) Sloan Scholar Award 
+- (2020) Sloan Graduate Fellowship
 - (2020) STARS Graduate Fellowship
 - (2019) CONACyT SNI-III Research Assitantship
 - (2018) CONACyT SNI-III Research Assistantship 
