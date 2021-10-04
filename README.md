@@ -72,8 +72,8 @@ Check out our community at [MMSE](https://mattermodeling.stackexchange.com/)!
 
 ### CONTACT 
 E-mail: epalos(at)ucsd.edu
-
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
-
+ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
+LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
 Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
