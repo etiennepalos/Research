@@ -9,21 +9,17 @@ A theoretical chemist from Tijuana, who enjoys evening walks with his partner an
 
 ## About  
 
-I am a Ph.D. student in the [Francesco Paesani](http://paesanigroup.ucsd.edu/index.html) lab, at the  [Department of Chemistry and Biochemistry at UC San Diego](https://chemistry.ucsd.edu/). I am interested in the development and implementation of theoretical methodlogies for simulations of complex chemical systems in the condensed phases. 
-
-Specifically, I focus on developing novel techniques based on quantum mechanics and many-body physics, for the investigation of the structural, thermodynamic, and electronic properties of liquids such as water, electrolyte solutions and molecular fluids.
-
-I aspire to contribute to the development of methods that can provide descriptions of such systems on a unified level, from the atomic to the thermodynamic limit.
+I am a Ph.D. student in the [Francesco Paesani](http://paesanigroup.ucsd.edu/index.html) lab, at the  [Department of Chemistry and Biochemistry at UC San Diego](https://chemistry.ucsd.edu/). I am interested in the development and implementation of theoretical methodlogies for simulations of complex chemical systems in the condensed phases. Specifically, I focus on developing novel techniques based on quantum mechanics and many-body physics, for the investigation of the structural, thermodynamic, and electronic properties of liquids such as water, electrolyte solutions and molecular fluids. I aspire to contribute to the development of methods that can provide descriptions of such systems on a unified level, from the atomic to the thermodynamic limit.
 
 Before coming to UC San Diego, I carried out my undergraduate studies in Nanotechnology at [Centro de Nanociencias y Nanotecnología (CNyN)](https://www.cnyn.unam.mx/) - [UNAM](https://www.unam.mx/). During my studies at UNAM, I joined the _Laboratorio Virtual de Modelado de Materiales (LVMM)_, where I dove into the heart of condensed matter theory; solid-state phsyics. I left the LVMM with a number of conference presentations, two first-author publications, friends and collaborators, and a desire to dive deeper into theoretical chemistry and physics.
 
-I owe in great part my vision as a scientist to Prof. Joel Yuen-Zhou, a theoretician at UC San Diego. I was fortunate enough to interact with his group at UC San Diego while I was an undergraduate at UNAM, and worked in his lab in the summer of 2018 on deriving semiclassical models for dispersion relations in polaritonic metasurfaces. It was during this summer that I learned to see science through the eyes of a phenomenologist, and I matured into a scientist who would focus on the bigger picture, and let the physics guide the calculations. 
+I owe in great part my vision as a scientist to [Prof. Joel Yuen-Zhou](https://scholar.google.com/citations?user=fCQ27T4AAAAJ&hl=en&oi=ao), a talented theoretician at UC San Diego. I was fortunate enough to interact with his group at UC San Diego while I was an undergraduate at UNAM, and worked in his lab in the summer of 2018 on deriving semiclassical models for dispersion relations in polaritonic metasurfaces. It was during this summer that I learned to see science through the eyes of a phenomenologist, and I matured into a scientist who would focus on the bigger picture, and let the physics guide the calculations. 
 
-These experiences have shaped me as a scientist and as a person, and it motivates me to continue my endeavour in theoretical and computational chemistry. My personal long-term goal, is to be able to work very closely with "paper and pen" theorists and experimentalists, to help bridge the gap between fundamental theory and experiment through rigorous and physically justified computations. 
+These experiences have shaped me as a scientist and as a person, and it motivates me to continue my endeavour in theoretical and computational chemistry. My _personal_ long-term goal, is to be able to work very closely with "paper and pen" theorists and experimentalists, to help bridge the gap between fundamental theory and experiment through rigorous and physically justified computations. 
 
 
 ## Research Areas
-My research focuses on many-body physics in the condensed phase. It falls within the interface between heoretical and computational:
+My research focuses on many-body physics in the condensed phase. It falls in the interface between theoretical and computational:
 - Chemical Physics: solvation, charge-transfer, quantum multiscale simulations of many-body systems.
 - Condensed Matter Physics: Multi-phase equilibirum, electronic structure under different thermodynamic conditions.
 
@@ -72,8 +68,12 @@ Check out our community at [MMSE](https://mattermodeling.stackexchange.com/)!
 
 ### CONTACT 
 E-mail: epalos(at)ucsd.edu
+
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
+
 ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
+
 LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
+
 Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
