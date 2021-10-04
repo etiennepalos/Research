@@ -1,7 +1,10 @@
 # Etienne Palos
-_PhD Student in Theoretical Chemistry at UC San Diego_
-_Alfred P. Sloan Scholar_
-_Proud member of the LatinXChem community!_
+_PhD Student in Theoretical Chemistry at UC San Diego_.
+
+_Alfred P. Sloan Scholar_.
+
+_Proud member of the LatinXChem community!_.
+
 A theoretical chemist from Tijuana, who enjoys evening walks with his partner and their young daughter, tacos, and coffee.
 
 ## About  
