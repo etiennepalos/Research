@@ -19,7 +19,7 @@ These experiences have shaped me as a scientist and as a person, and it motivate
 
 
 ## Research Areas
-My research focuses on many-body physics in the condensed phase. It falls in the interface between theoretical and computational:
+My research focuses on many-body physics and quantum chemistry in the condensed phase. It falls in the interface between theoretical and computational:
 - Chemical Physics: solvation, charge-transfer, quantum multiscale simulations of many-body systems.
 - Condensed Matter Physics: Multi-phase equilibirum, electronic structure under different thermodynamic conditions.
 
@@ -33,11 +33,11 @@ My research focuses on many-body physics in the condensed phase. It falls in the
 
 ## Publications & Preprints 
 
-- Etienne Palos _et al_ 2020, [On errors in density functional theory and implications for many-body representations of water: a step toward a unified framework]() , _Under Review._ (Preprint available!)
+- Etienne Palos _et al_ 2020, [Assesing the Interplay Between Functional- and Density-Driven Errors in DFT Models of Water]() , _Under Review._ (Preprint available!) (Accepted at ACS Spring 2022!)
 - 
 - Elefherios  Lambros,  Saswata  Dasgupta,  *Etienne Palos*,  Stephen  Swee,  Jie Hiue, Francesco Paesani. 2021, [General Many-Body Framework for Data-Driven Potentials with Arbitrary Quantum Mechanical Accuracy: Water as a Case Study](https://doi.org/10.1021/acs.jctc.1c00541) , _J. Chem. Theory Comput._ **17**, 9, 5635–5650.
 
-- Etienne Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented work at ACS San Diego!)
+- Etienne Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented at ACS Fall 2019!)
 
 - Etienne Palos _et al_ 2018, [Electronic structure calculations for rhenium carbonitride: an extended Hückel tight-binding study](https://doi.org/10.1088/1402-4896/aae14c), _Phys. Scr._ **93** 115801.
 
