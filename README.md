@@ -1,11 +1,12 @@
 # Etienne Palos
 _PhD Student in Theoretical Chemistry at UC San Diego_.
+Advisor: [Francesco Paesani, PhD](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
 
-_Alfred P. Sloan Scholar_.
+_Alfred P. Sloan Graduate Scholar_.
 
 _Proud member of the LatinXChem community!_.
 
-A theoretical chemist from Tijuana, who enjoys evening walks with his partner and their young daughter, tacos, and coffee.
+A theoretical chemist from Tijuana, who enjoys evening walks with his fiancee and their young daughter, good tacos, and coffee.
 
 ## About  
 
@@ -34,7 +35,7 @@ My research focuses on many-body physics and quantum chemistry in the condensed 
 ## Publications & Preprints 
 
 - Etienne Palos _et al_ 2022, [Assesing the Interplay Between Functional- and Density-Driven Errors in DFT Models of Water]() , _Under Review._ (Preprint available!) (Accepted at ACS Spring 2022!)
-- 
+
 - Elefherios  Lambros,  Saswata  Dasgupta,  *Etienne Palos*,  Stephen  Swee,  Jie Hiue, Francesco Paesani. 2021, [General Many-Body Framework for Data-Driven Potentials with Arbitrary Quantum Mechanical Accuracy: Water as a Case Study](https://doi.org/10.1021/acs.jctc.1c00541) , _J. Chem. Theory Comput._ **17**, 9, 5635–5650.
 
 - Etienne Palos _et al_ 2020, [Modeling the ternary chalcogenide Na2MoSe4 from first-principles](https://doi.org/10.1088/1361-648X/abaf91) , _J. Phys: Condens. Matter._ (Presented at ACS Fall 2019!)
