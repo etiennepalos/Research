@@ -33,7 +33,7 @@ My research focuses on many-body physics and quantum chemistry in the condensed 
 
 ## Publications & Preprints 
 
-- Etienne Palos _et al_ 2020, [Assesing the Interplay Between Functional- and Density-Driven Errors in DFT Models of Water]() , _Under Review._ (Preprint available!) (Accepted at ACS Spring 2022!)
+- Etienne Palos _et al_ 2022, [Assesing the Interplay Between Functional- and Density-Driven Errors in DFT Models of Water]() , _Under Review._ (Preprint available!) (Accepted at ACS Spring 2022!)
 - 
 - Elefherios  Lambros,  Saswata  Dasgupta,  *Etienne Palos*,  Stephen  Swee,  Jie Hiue, Francesco Paesani. 2021, [General Many-Body Framework for Data-Driven Potentials with Arbitrary Quantum Mechanical Accuracy: Water as a Case Study](https://doi.org/10.1021/acs.jctc.1c00541) , _J. Chem. Theory Comput._ **17**, 9, 5635–5650.
 
