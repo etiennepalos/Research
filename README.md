@@ -50,6 +50,7 @@ My research focuses on many-body physics and quantum chemistry in the condensed 
 
 
 ### Teaching 
+- (2022) **UCSD**: Physical Chemistry Lab (CHEM 105A - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Mark Young*
 - (2021) **UCSD**: General Chemistry III (CHEM 6C - Lower division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Stacey Brydges*
 - (2021) **UCSD**: Quantum Mechanics (CHEM 126B - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Francesco Paesani*
 - (2020) **UCSD**: Classical & Statistical Thermodynamics (CHEM126A - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Joel Yuen-Zhou*
@@ -57,7 +58,7 @@ My research focuses on many-body physics and quantum chemistry in the condensed 
 
 ### Peer Review 
 - (2020) *Electronic Structure (Elec. Strucut.)* (IOP) - 1 Special Issue article as of September 2021
-- (2021) *Physica Scripta (Phys. Scr.)* (IOP) - 2 articles as of September 2021, 1 being a Special Issue article
+- (2021) *Physica Scripta (Phys. Scr.)* (IOP) - 2 articles as of January 2022, 1 being a Special Issue article
 - (2020) *Materials Research Express (MRX)* (IOP) - 1 article as of September 2021
 
 ### Computational Condensed Matter Club (CCMC) 
