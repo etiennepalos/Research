@@ -5,8 +5,6 @@ University California, San Diego
     9500 Gilman Dr. La Jolla
       CA 92093
 
-### Contact Information:
-
 - E-mail: epalos(at)ucsd.edu
 - Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
 - Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
