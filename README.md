@@ -3,30 +3,24 @@
 *Alfred P. Sloan Graduate Fellow*
 
 University California, San Diego
+  Department of Chemistry and Biochemsitry
+    9500 Gilman Dr. La Jolla
+      CA 92093
 
-Department of Chemistry and Biochemsitry
-
-9500 Gilman Dr. La Jolla
-
-CA 92093
-
-E-mail: epalos(at)ucsd.edu
-
-Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
-
-ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
-
-LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
-
-Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
+- E-mail: epalos(at)ucsd.edu
+- Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
+- ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
+- LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
+- Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
 
 
 
-Ph.D. Student, Theoretical and Computational Chemistry (2020-)
-Advisor: [Francesco Paesani, PhD](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
-M.S. UC San Diego, 2022
-B.S. UNAM (Mexico), 2020
+- Ph.D. Student, Theoretical and Computational Chemistry (2020-) |
+Advisor: [Francesco Paesani, Ph.D.](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
+- M.S. UC San Diego, 2022 | Advisor: Francesco Paesani, Ph.D.
+- B.S. UNAM (Mexico), 2020
+Advisor: [Jonathan Guerrero-Sánchez, Ph.D.](https://scholar.google.com/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao)
 
 
 ## About Me:
