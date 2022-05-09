@@ -1,7 +1,7 @@
 # Etienne I. Palos
 Etienne Palos : Research
 
-![Photo](docs/assets/for_ucsd_id.pngfor_ucsd_id.png)
+![Photo](etiennepalos/Research/docs/assets/for_ucsd_id.pngfor_ucsd_id.png)
 
 _PhD Student in Theoretical and Computational Chemistry at UC San Diego_.
 Advisor: [Francesco Paesani, PhD](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
