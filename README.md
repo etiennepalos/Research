@@ -40,13 +40,6 @@ I owe in great part my vision as a scientist to [Prof. Joel Yuen-Zhou](https://s
 
 These experiences have shaped me as a scientist and as a person, and it motivates me to continue my endeavour in theoretical and computational chemistry. My _personal_ long-term goal, is to be able to work very closely with "paper and pen" theorists and experimentalists, to help bridge the gap between fundamental theory and experiment through rigorous and physically justified computations. 
 
-
-## Research Areas:
-My research focuses on many-body interactions and quantum chemistry in the condensed phase. It falls in the interface between theoretical and computational:
-- Chemical Physics: solvation, charge-transfer, quantum multiscale simulations of many-body systems.
-- Condensed Matter Physics: Multi-phase equilibirum, electronic structure under different thermodynamic conditions, band structure of solids and 2D materials.
-- 
-
 ## Publications & Preprints:
 - Etienne Palos _et al_ 2022, [Density Functional Theory of Water with the Machine-Learned DM21 Functional](https://aip.scitation.org/doi/10.1063/5.0090862) , _J. Chem. Phys._ **156**, 161103 (2022) : COMMUNICATION
 
