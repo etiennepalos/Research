@@ -1,27 +1,21 @@
 # Etienne I. Palos
-*NSF Graduate Research Fellow* |
-*Alfred P. Sloan Graduate Fellow*
 
 University California, San Diego
   Department of Chemistry and Biochemsitry
     9500 Gilman Dr. La Jolla
       CA 92093
 
+### Contact Information:
+
 - E-mail: epalos(at)ucsd.edu
 - Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
-- ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
-- LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
 - Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
+## Education:
 
-
-
-- Ph.D. Student, Theoretical and Computational Chemistry (2020-) |
-Advisor: [Francesco Paesani, Ph.D.](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
-- M.S. UC San Diego, 2022 | Advisor: Francesco Paesani, Ph.D.
+- Ph.D., Theoretical and Computational Chemistry (2020-2025, expected) 
+- M.S. UC San Diego, 2022 
 - B.S. UNAM (Mexico), 2020
-Advisor: [Jonathan Guerrero-Sánchez, Ph.D.](https://scholar.google.com/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao)
-
 
 ## About Me:
 
@@ -39,13 +33,6 @@ Prior to UC San Diego, I concluded my undergraduate studies (B.S.) in Nanotechno
 I owe in great part my vision as a scientist to [Prof. Joel Yuen-Zhou](https://scholar.google.com/citations?user=fCQ27T4AAAAJ&hl=en&oi=ao) at UC San Diego. I was fortunate enough to interact with his group at UC San Diego while I was an undergraduate at UNAM, and worked in his lab in the summer of 2018 on deriving semiclassical models for dispersion relations in polaritonic metasurfaces. It was during this summer that I learned to see science through the eyes of a phenomenologist, and I matured into a scientist who would focus on the bigger picture, and let the physics guide the calculations. 
 
 These experiences have shaped me as a scientist and as a person, and it motivates me to continue my endeavour in theoretical and computational chemistry. My _personal_ long-term goal, is to be able to work very closely with "paper and pen" theorists and experimentalists, to help bridge the gap between fundamental theory and experiment through rigorous and physically justified computations. 
-
-
-## Research Areas:
-My research focuses on many-body interactions and quantum chemistry in the condensed phase. It falls in the interface between theoretical and computational:
-- Chemical Physics: solvation, charge-transfer, quantum multiscale simulations of many-body systems.
-- Condensed Matter Physics: Multi-phase equilibirum, electronic structure under different thermodynamic conditions, band structure of solids and 2D materials.
-- 
 
 ## Publications & Preprints:
 - Etienne Palos _et al_ 2022, [Density Functional Theory of Water with the Machine-Learned DM21 Functional](https://aip.scitation.org/doi/10.1063/5.0090862) , _J. Chem. Phys._ **156**, 161103 (2022) : COMMUNICATION
