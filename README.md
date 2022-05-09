@@ -1,20 +1,21 @@
 # Etienne I. Palos
-*NSF Graduate Research Fellow* |
-*Alfred P. Sloan Graduate Fellow*
 
 University California, San Diego
   Department of Chemistry and Biochemsitry
     9500 Gilman Dr. La Jolla
       CA 92093
 
+### Contact Information:
+
 - E-mail: epalos(at)ucsd.edu
 - Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
 - Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
-- Ph.D. Student, Theoretical and Computational Chemistry (2020-) ; Advisor: [Francesco Paesani, Ph.D.](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
-- M.S. UC San Diego, 2022 ; Advisor: Francesco Paesani, Ph.D.
-- B.S. UNAM (Mexico), 2020 ; Advisor: [Jonathan Guerrero-Sánchez, Ph.D.](https://scholar.google.com/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao)
+## Education:
 
+- Ph.D., Theoretical and Computational Chemistry (2020-2025, expected) 
+- M.S. UC San Diego, 2022 
+- B.S. UNAM (Mexico), 2020
 
 ## About Me:
 
