@@ -1,15 +1,23 @@
 # Etienne I. Palos
-*NSF Graduate Research Fellow*
+*NSF Graduate Research Fellow* |
 *Alfred P. Sloan Graduate Fellow*
 
 University California, San Diego
+
 Department of Chemistry and Biochemsitry
+
 9500 Gilman Dr. La Jolla
+
 CA 92093
+
 E-mail: epalos(at)ucsd.edu
+
 Twitter: [@EtiennePalos](https://twitter.com/EtiennePalos)
+
 ORCiD: [ 0000-0003-2171-0792 ](https://orcid.org/0000-0003-2171-0792)
+
 LinkedIn:[Etienne Palos](https://www.linkedin.com/in/etienne-palos/)
+
 Google Scholar: [Etienne Palos](https://scholar.google.com/citations?user=hA6qQRIAAAAJ&hl=en&oi=ao)
 
 
