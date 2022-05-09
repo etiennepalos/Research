@@ -15,12 +15,9 @@ University California, San Diego
 
 
 
-
-- Ph.D. Student, Theoretical and Computational Chemistry (2020-) |
-Advisor: [Francesco Paesani, Ph.D.](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
-- M.S. UC San Diego, 2022 | Advisor: Francesco Paesani, Ph.D.
-- B.S. UNAM (Mexico), 2020
-Advisor: [Jonathan Guerrero-Sánchez, Ph.D.](https://scholar.google.com/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao)
+- Ph.D. Student, Theoretical and Computational Chemistry (2020-) ; Advisor: [Francesco Paesani, Ph.D.](https://scholar.google.com/citations?user=01BwypIAAAAJ&hl=en&oi=ao)
+- M.S. UC San Diego, 2022 ; Advisor: Francesco Paesani, Ph.D.
+- B.S. UNAM (Mexico), 2020 ; Advisor: [Jonathan Guerrero-Sánchez, Ph.D.](https://scholar.google.com/citations?user=XOBMvEIAAAAJ&hl=en&oi=ao)
 
 
 ## About Me:
