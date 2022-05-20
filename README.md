@@ -58,13 +58,13 @@ These experiences have shaped me as a scientist and as a person, and it motivate
 - (2015) SEP National Prototype Competition - *1st state and national levels*
 
 ### Teaching:
-- (2022) **UCSD**: Physical Chemistry Lab (CHEM 105A - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Mark Young*
+- (2022) **UCSD**: Physical Chemistry Lab (CHEM 105A - Upper division, undergraduate) ; *Teaching Assistant*. Reference: *Prof. Mark Young*
 - (2021) **UCSD**: General Chemistry III (CHEM 6C - Lower division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Stacey Brydges*
 - (2021) **UCSD**: Quantum Mechanics (CHEM 126B - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Francesco Paesani*
 - (2020) **UCSD**: Classical & Statistical Thermodynamics (CHEM126A - Upper division, undergraduate) ; *Graduate Instructional Apprentice*. Reference: *Prof. Joel Yuen-Zhou*
 - (2016-2018) Staff Instructor at the "Matematiké, A.C" mathematics center: High School + Lower division college maths up to Multivariable Calculus. Reference: *Prof. Armando Reyes-Serrato*
 
 ### Peer Review Activity:
-- (2020) *Electronic Structure (Elec. Struct.)* (IOP) - 1 Special Issue article as of September 2021: **OUTSTANDING REVIEWER AWARD 2021**
-- (2021) *Physica Scripta (Phys. Scr.)* (IOP) - 2 articles as of January 2022, 1 being a Special Issue article **OUTSTANDING REVIEWER AWARD 2021**
+- (2020) *Electronic Structure (Elec. Struct.)* (IOP) - 1 Special Issue article as of September 2021: **[OUTSTANDING REVIEWER AWARD 2021](https://publishingsupport.iopscience.iop.org/questions/electronic-structure-2021-reviewer-awards/)**
+- (2021) *Physica Scripta (Phys. Scr.)* (IOP) - 2 articles as of January 2022, 1 being a Special Issue article **[OUTSTANDING REVIEWER AWARD 2021](https://publishingsupport.iopscience.iop.org/questions/physica-scripta-2021-reviewer-awards/)**
 - (2020) *Materials Research Express (MRX)* (IOP) - 1 article as of September 2020
